@@ -1,16 +1,59 @@
-## Hi there 👋
+# Ayesha Mumtaz
 
-<!--
-**ayeshamumtaz-tech/ayeshamumtaz-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BS Artificial Intelligence Student | AI & Generative AI Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am an Artificial Intelligence student focused on building a strong foundation in programming, machine learning concepts, and modern AI systems.  
+I enjoy turning ideas into practical projects using code and continuously improving my problem-solving skills.
+
+---
+
+## Focus Areas
+
+- Artificial Intelligence & Machine Learning fundamentals  
+- Generative AI concepts and applications  
+- Python for problem-solving and development  
+- Web development basics (HTML, CSS)
+
+---
+
+## Skills
+
+**Programming Languages:**  
+Python, C, C++  
+
+**Web Development:**  
+HTML, CSS  
+
+**Tools & Platforms:**  
+Git, GitHub
+
+---
+
+## Projects
+
+- Virsa – Cultural Website (Frontend Project)  
+- More projects in development...
+
+---
+
+## Learning Goals
+
+- Strengthen core AI and ML concepts  
+- Build real-world AI-based projects  
+- Improve software development practices  
+- Contribute to open-source projects in the future  
+
+---
+
+## Contact
+
+Email: ayeshaamumtaz1608@gmail.com  
+GitHub: github.com/ayeshamumtaz-tech
+
+---
+
+*“Learning consistently is better than knowing everything at once.”*
