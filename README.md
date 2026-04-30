@@ -35,7 +35,7 @@ Git, GitHub
 
 ## Projects
 
-- Virsa – Cultural Website (Frontend Project)  
+- digital-campus-ict
 - More projects in development...
 
 ---
