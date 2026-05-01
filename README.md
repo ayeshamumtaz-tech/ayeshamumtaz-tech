@@ -30,7 +30,8 @@ HTML, CSS
 
 **Tools & Platforms:**  
 Git, GitHub
-
+**Prompt Engineering**
+**Generative AI Tools**
 ---
 
 ## Projects
